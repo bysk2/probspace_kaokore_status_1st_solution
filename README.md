@@ -1,5 +1,8 @@
 # probspace_kaokore_status_1st_solution
 
+## Competition URL
+https://comp.probspace.com/competitions/kaokore_status
+
 ## Pipeline
 
 ![image](https://user-images.githubusercontent.com/95401302/183533421-0ea89864-8e26-4bd4-852b-16d4ac9430a4.png)
